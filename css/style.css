@@ -20,14 +20,14 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Saira Extra Condensed', serif;
+    font-family: 'GyeonggiTitleM';
     font-weight: 700;
     text-transform: uppercase;
     color: #343a40;
 }
 
 h1 {
-    font-size: 6rem;
+       font-size: 4.5rem;
     line-height: 5.5rem;
 }
 
@@ -200,26 +200,24 @@ a:active {
   }
 
   .bg-primary {
-      background-color: #2196f3 !important;
+      background-color: #ff9500 !important;
   }
 
   .text-primary {
-      color: #2196f3 !important;
+      color: #ff9500 !important;
   }
 
 /*==================================================
                       ABOUT
 ====================================================*/
   #about {
-      background-image: url(../img/profile.jpg); 
+      background-image: url(../img/port_back.png); 
       background-size: cover;
       background-position: center center;
       background-repeat: no-repeat;
   }
 
-  #about h1 {
-    /*font-size: 100%;*/
-  }
+ 
 
 /*==================================================
                     EXPERIENCE
@@ -423,7 +421,7 @@ a:active {
 }
 
 .skill-item i {
-    color: #2196f3;
+    color: #ff9500;
 }
 
 .skill-item h2 {
