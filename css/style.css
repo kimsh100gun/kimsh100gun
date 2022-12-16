@@ -139,15 +139,15 @@ a:active {
 }
 
 .btn-white {
-    border-color: #2196f3;
-    background-color: #2196f3;
+    border-color: #ff9500;
+    background-color: #ff9500;
     color: #fff;
 }
 
 .btn-white:hover,
 .btn-white:focus {
     background-color: transparent;
-    color: #2196f3;
+    color: #ff9500;
     cursor: pointer;
 }
 
