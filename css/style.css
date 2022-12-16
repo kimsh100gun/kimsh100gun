@@ -271,6 +271,7 @@ a:active {
     transition: all ease 0.5s;
     opacity: 0;
     background: rgb(255,181,77);
+    border-radius: 10%;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption-port:hover {
