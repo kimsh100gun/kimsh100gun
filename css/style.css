@@ -158,7 +158,7 @@ a:active {
 
 .btn-green:hover,
 .btn-green:focus {
-    background-color: #2196f3;
+    background-color: #ff9500;
     color: #fff;
     cursor: pointer;
 }
@@ -270,7 +270,7 @@ a:active {
     -moz-transition: all ease 0.5s;
     transition: all ease 0.5s;
     opacity: 0;
-    background: rgba(54, 160, 245, 0.73);
+    background: rgb(255,181,77);
 }
 
 #portfolio .portfolio-item .portfolio-link .caption-port:hover {
