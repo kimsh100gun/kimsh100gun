@@ -152,8 +152,8 @@ a:active {
 }
 
 .btn-green {
-    border-color: #2196f3;
-    color: #2196f3;
+    border-color: #ff9500;
+    color: #ff9500;
 }
 
 .btn-green:hover,
@@ -169,7 +169,7 @@ a:active {
   .heading-border {
       width: 60px;
       height: 10px;
-      background-color: #2196f3;
+      background-color: #FF9500;
       margin: 0 auto 20px auto;
   }
 
