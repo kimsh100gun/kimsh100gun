@@ -36,13 +36,13 @@ h2 {
 }
 
 a {
-    color: #2196f3;
+    color: #14540d;
 }
 
 a:hover,
 a:focus,
 a:active {
-    color: #0f72c1;
+    color: #ff9500;
 }
 
 .subheading {
