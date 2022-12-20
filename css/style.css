@@ -530,7 +530,7 @@ a:active {
 }
 
 #award-box .award:hover .award-icon:before {
-    background: #39b3ff;
+    background: #ff9500;
 }
 
 #award-box .award-content {
@@ -563,8 +563,8 @@ a:active {
 }
 
 #award-box .award:hover .award-content:before {
-    background: #39b3ff;
-    border-color: #39b3ff;
+    background: #ff9500;
+    border-color: #ff9500;
 }
 
 #award-box .award-content:after {
@@ -581,7 +581,7 @@ a:active {
     display: block;
     font-size: 15px;
     font-weight: 600;
-    color: #39b3ff;
+    color: #ff9500;
     margin: 0 0 8px;
     transition: all 0.3s ease 0s;
 }
